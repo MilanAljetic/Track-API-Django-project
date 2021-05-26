@@ -10,7 +10,7 @@
 - python3 manage.py runserver
 
 
-###### Django application where with API endpoint api/tracks/ we add new music track into database, and with endpoint /api/tracks/<id>/calculate-start-time/ we count start time at the begining of the song.
+###### Django application where with API endpoint api/tracks/ we add new music track into database, and with endpoint /api/tracks/id/calculate-start-time/ we count start time at the begining of the song.
 
 
 
